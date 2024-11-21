@@ -1,0 +1,11 @@
+apple_scab
+apple_black_rot
+apple_cedar_rust
+apple_healthy
+corn_common_rust
+corn_northern_blight
+corn_healthy
+grape_black_rot
+grape_esca
+grape_leaf_blight
+grape_healthy

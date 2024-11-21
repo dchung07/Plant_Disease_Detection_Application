@@ -1,0 +1,312 @@
+{
+    "diseases": [
+      {
+        "id": "apple_scab",
+        "name": "Apple Scab",
+        "scientific_name": "Venturia inaequalis",
+        "host_plant": "Apple",
+        "category": "Fungal Disease",
+        "description": "Apple scab is one of the most serious diseases of apple trees, causing dark, scabby lesions on leaves and fruit. The disease can significantly reduce fruit quality and yield.",
+        "symptoms": [
+          "Olive-green or brown spots on leaves",
+          "Dark, scab-like lesions on fruit",
+          "Deformed or cracked fruit",
+          "Premature leaf drop",
+          "Weakened tree vigor"
+        ],
+        "conditions": {
+          "favorable_temperature": "16-24°C (61-75°F)",
+          "humidity": "High humidity, especially during spring",
+          "spread": "Rain splash and wind"
+        },
+        "management_tips": [
+          "Plant resistant apple varieties",
+          "Prune trees to improve air circulation",
+          "Remove fallen leaves in autumn",
+          "Apply fungicides preventatively in early spring",
+          "Maintain proper tree spacing"
+        ],
+        "prevention": [
+          "Choose disease-resistant varieties when planting",
+          "Ensure good air circulation",
+          "Avoid overhead irrigation",
+          "Practice proper sanitation"
+        ],
+        "severity_level": "High",
+        "economic_impact": "Significant - can reduce fruit market value by 70%",
+        "image_identifier": "Apple___Apple_scab"
+      },
+      {
+        "id": "apple_black_rot",
+        "name": "Black Rot",
+        "scientific_name": "Botryosphaeria obtusa",
+        "host_plant": "Apple",
+        "category": "Fungal Disease",
+        "description": "Black rot is a serious fungal disease affecting apple trees, causing leaf spots, fruit rot, and cankers on branches. It can survive winter in infected plant material.",
+        "symptoms": [
+          "Purple spots on leaves",
+          "Rotting fruit with concentric rings",
+          "Branch cankers",
+          "Mummified fruit remaining on trees",
+          "Leaf spots with purple margins"
+        ],
+        "conditions": {
+          "favorable_temperature": "20-26°C (68-79°F)",
+          "humidity": "Moderate to high",
+          "spread": "Rain, wind, and insects"
+        },
+        "management_tips": [
+          "Remove infected fruit and branches",
+          "Prune out cankers",
+          "Apply appropriate fungicides",
+          "Maintain tree vigor",
+          "Practice good orchard sanitation"
+        ],
+        "prevention": [
+          "Remove mummified fruit",
+          "Proper pruning techniques",
+          "Regular orchard cleaning",
+          "Balanced fertilization"
+        ],
+        "severity_level": "Moderate to High",
+        "economic_impact": "Can cause 50% fruit loss in severe cases",
+        "image_identifier": "Apple___Black_rot"
+      },
+      {
+        "id": "apple_cedar_rust",
+        "name": "Cedar Apple Rust",
+        "scientific_name": "Gymnosporangium juniperi-virginianae",
+        "host_plant": "Apple",
+        "category": "Fungal Disease",
+        "description": "Cedar apple rust is a unique fungal disease requiring both apple trees and cedar trees to complete its life cycle. It causes distinctive bright orange spots on apple leaves and fruit.",
+        "symptoms": [
+          "Bright orange-yellow spots on leaves",
+          "Small rust-colored spots on fruit",
+          "Raised bumps with spore tubes on leaf undersides",
+          "Premature leaf drop",
+          "Reduced fruit quality"
+        ],
+        "conditions": {
+          "favorable_temperature": "10-24°C (50-75°F)",
+          "humidity": "High spring humidity",
+          "spread": "Wind-blown spores"
+        },
+        "management_tips": [
+          "Remove nearby cedar trees if possible",
+          "Plant resistant apple varieties",
+          "Apply preventative fungicides",
+          "Monitor trees in spring",
+          "Maintain tree health"
+        ],
+        "prevention": [
+          "Choose resistant varieties",
+          "Increase distance from cedar trees",
+          "Time fungicide applications properly",
+          "Regular monitoring"
+        ],
+        "severity_level": "Moderate",
+        "economic_impact": "Can reduce yield by 25-30%",
+        "image_identifier": "Apple___Cedar_apple_rust"
+      },
+      {
+        "id": "corn_common_rust",
+        "name": "Common Rust",
+        "scientific_name": "Puccinia sorghi",
+        "host_plant": "Corn",
+        "category": "Fungal Disease",
+        "description": "Common rust is a widespread disease of corn characterized by rusty-colored pustules on leaves. It can affect yield in susceptible hybrids.",
+        "symptoms": [
+          "Small, circular pustules on leaves",
+          "Reddish-brown powder (spores)",
+          "Pustules on both leaf surfaces",
+          "Chlorotic areas around pustules",
+          "Severe infection causes leaf death"
+        ],
+        "conditions": {
+          "favorable_temperature": "16-25°C (61-77°F)",
+          "humidity": "High humidity",
+          "spread": "Wind-blown spores"
+        },
+        "management_tips": [
+          "Plant resistant hybrids",
+          "Early planting",
+          "Scout fields regularly",
+          "Apply fungicides if necessary",
+          "Maintain proper fertility"
+        ],
+        "prevention": [
+          "Choose resistant varieties",
+          "Optimal planting dates",
+          "Regular monitoring",
+          "Balanced nutrition"
+        ],
+        "severity_level": "Moderate",
+        "economic_impact": "Yield losses typically 10-20%",
+        "image_identifier": "Corn_(maize)___Common_rust_"
+      },
+      {
+        "id": "corn_northern_blight",
+        "name": "Northern Corn Leaf Blight",
+        "scientific_name": "Exserohilum turcicum",
+        "host_plant": "Corn",
+        "category": "Fungal Disease",
+        "description": "Northern corn leaf blight is a destructive foliar disease causing long, elliptical lesions on corn leaves. It can significantly reduce yield in susceptible hybrids.",
+        "symptoms": [
+          "Long, elliptical gray-green lesions",
+          "Lesions become tan as they mature",
+          "Lower leaves affected first",
+          "Lesions may coalesce",
+          "Premature leaf death"
+        ],
+        "conditions": {
+          "favorable_temperature": "18-27°C (64-80°F)",
+          "humidity": "Prolonged leaf wetness",
+          "spread": "Rain splash and wind"
+        },
+        "management_tips": [
+          "Plant resistant hybrids",
+          "Rotate crops",
+          "Tillage of crop residue",
+          "Fungicide application",
+          "Regular field scouting"
+        ],
+        "prevention": [
+          "Crop rotation",
+          "Residue management",
+          "Resistant varieties",
+          "Proper timing of planting"
+        ],
+        "severity_level": "High",
+        "economic_impact": "Can reduce yields by 30-50%",
+        "image_identifier": "Corn_(maize)___Northern_Leaf_Blight"
+      },
+      {
+        "id": "grape_black_rot",
+        "name": "Grape Black Rot",
+        "scientific_name": "Guignardia bidwellii",
+        "host_plant": "Grape",
+        "category": "Fungal Disease",
+        "description": "Black rot is a serious disease of grapes that can destroy the entire crop if not properly managed. It affects leaves, shoots, and berries.",
+        "symptoms": [
+          "Circular brown spots on leaves",
+          "Black, mummified berries",
+          "Tan spots with black dots",
+          "Stem lesions",
+          "Berry rot with concentric rings"
+        ],
+        "conditions": {
+          "favorable_temperature": "20-32°C (68-90°F)",
+          "humidity": "High humidity",
+          "spread": "Rain splash and wind"
+        },
+        "management_tips": [
+          "Remove mummified fruit",
+          "Prune for air circulation",
+          "Apply fungicides",
+          "Train vines properly",
+          "Practice good sanitation"
+        ],
+        "prevention": [
+          "Proper canopy management",
+          "Sanitation practices",
+          "Timely fungicide application",
+          "Site selection"
+        ],
+        "severity_level": "High",
+        "economic_impact": "Can cause complete crop loss",
+        "image_identifier": "Grape___Black_rot"
+      },
+      {
+        "id": "grape_esca",
+        "name": "Esca (Black Measles)",
+        "scientific_name": "Complex of fungi including Phaeomoniella chlamydospora",
+        "host_plant": "Grape",
+        "category": "Fungal Disease",
+        "description": "Esca is a complex disease affecting the woody tissue of grapevines. It can cause sudden vine collapse and is particularly serious in mature vineyards.",
+        "symptoms": [
+          "Tiger-striped leaf patterns",
+          "Berry spotting",
+          "Wood decay",
+          "Sudden vine collapse",
+          "Dark spotting on fruit"
+        ],
+        "conditions": {
+          "favorable_temperature": "20-25°C (68-77°F)",
+          "humidity": "Various conditions",
+          "spread": "Pruning wounds"
+        },
+        "management_tips": [
+          "Remove infected vines",
+          "Proper pruning techniques",
+          "Protect pruning wounds",
+          "Maintain vine vigor",
+          "Use clean pruning tools"
+        ],
+        "prevention": [
+          "Clean pruning practices",
+          "Wound protection",
+          "Vineyard sanitation",
+          "Proper training systems"
+        ],
+        "severity_level": "Severe",
+        "economic_impact": "Long-term vineyard damage",
+        "image_identifier": "Grape___Esca_(Black_Measles)"
+      },
+      {
+        "id": "grape_leaf_blight",
+        "name": "Leaf Blight (Isariopsis Leaf Spot)",
+        "scientific_name": "Pseudocercospora vitis",
+        "host_plant": "Grape",
+        "category": "Fungal Disease",
+        "description": "Isariopsis leaf spot is a fungal disease that primarily affects grape leaves, causing distinctive spots and potentially reducing vine vigor.",
+        "symptoms": [
+          "Brown-black leaf spots",
+          "Angular lesions",
+          "Spots with light centers",
+          "Premature leaf drop",
+          "Reduced fruit quality"
+        ],
+        "conditions": {
+          "favorable_temperature": "20-28°C (68-82°F)",
+          "humidity": "High humidity",
+          "spread": "Rain splash and wind"
+        },
+        "management_tips": [
+          "Improve air circulation",
+          "Apply fungicides",
+          "Remove infected leaves",
+          "Proper canopy management",
+          "Maintain vineyard hygiene"
+        ],
+        "prevention": [
+          "Proper spacing",
+          "Canopy management",
+          "Weed control",
+          "Regular monitoring"
+        ],
+        "severity_level": "Moderate",
+        "economic_impact": "Primarily affects vine health",
+        "image_identifier": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)"
+      }
+    ],
+    "healthy_plants": [
+      {
+        "id": "apple_healthy",
+        "name": "Healthy Apple Plant",
+        "description": "This apple plant appears to be in good health with no signs of disease.",
+        "severity_level": "None"
+      },
+      {
+        "id": "grape_healthy",
+        "name": "Healthy Grape Plant",
+        "description": "This grape plant is thriving with no visible disease symptoms.",
+        "severity_level": "None"
+      },
+      {
+        "id": "corn_healthy",
+        "name": "Healthy Corn Plant",
+        "description": "This Corn plant is thriving with no visible disease symptoms.",
+        "severity_level": "None"
+      }
+    ]
+  }
